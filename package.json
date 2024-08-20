@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "\"my first npm file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "sabha mushtaq",
+  "license": "ISC"
+}
